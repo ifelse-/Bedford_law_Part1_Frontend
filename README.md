@@ -6,11 +6,16 @@
 
 # Docker Setup
 Now let’s build the Docker image of our Vue.js app:
+<br><br>
 
-docker build -t bedford-law/docker-bedford-law-app .
-Finally, let’s run our Vue.js app in a Docker container:
+docker build -t bedford-law/docker-bedford-law-app .<br>
 
-docker run -it -p 8080:8080 --rm --namedocker-bedford-law-app-1 bedford-law/docker-bedford-law-app
+Finally, let’s run our Vue.js app in a Docker container: <br><br>
+
+
+
+docker run -it -p 8080:8080 --rm --namedocker-bedford-law-app-1 bedford-law/docker-bedford-law-app <br>
+
 We should be able to access our Vue.js app on localhost:8080.
 
 
