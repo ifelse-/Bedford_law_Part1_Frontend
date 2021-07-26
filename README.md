@@ -1,12 +1,8 @@
-# Vue app
+# Bedford Law Vue app
 
 ![alt text](https://giveme5ive.com/bedford-law-two.png)
 
 ![alt text](https://giveme5ive.com/bedford-law-one.png)
-
-# benny-law
-
-Please check master branch!
 
 # Docker Setup
 Now let’s build the Docker image of our Vue.js app:
